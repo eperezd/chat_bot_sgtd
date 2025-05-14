@@ -1,0 +1,50 @@
+{
+    "intents": [
+      {
+        "tag": "portal_transparencia",
+        "patterns": [
+          "¿Qué es el Portal de Transparencia Estándar?",
+          "¿Cómo accedo al Portal de Transparencia?",
+          "¿Qué información se encuentra en el Portal de Transparencia?",
+          "¿Dónde encuentro información sobre presupuestos del gobierno?"
+        ],
+        "responses": [
+          "El Portal de Transparencia Estándar (PTE) es una plataforma donde las entidades públicas publican información sobre su gestión, presupuesto y actividades.",
+          "Puedes acceder al Portal de Transparencia Estándar a través de la web oficial de la entidad pública o desde https://www.gob.pe/transparencia.",
+          "En el Portal de Transparencia Estándar encontrarás información sobre el presupuesto, contrataciones, remuneraciones de funcionarios y otras gestiones de las entidades públicas.",
+          "Para ver información sobre presupuestos, puedes ingresar a la sección de Presupuesto en el Portal de Transparencia de cada entidad pública."
+        ]
+      },
+      {
+        "tag": "gob_pe_acceso",
+        "patterns": [
+          "¿Cómo accedo a Gob.pe?",
+          "¿Qué servicios puedo encontrar en Gob.pe?",
+          "¿Dónde encuentro trámites en Gob.pe?",
+          "¿Puedo hacer consultas a entidades del Estado en Gob.pe?"
+        ],
+        "responses": [
+          "Puedes acceder a Gob.pe a través de https://www.gob.pe, donde encontrarás información y servicios del Estado peruano.",
+          "En Gob.pe puedes encontrar trámites, normativas, noticias y servicios de las entidades del gobierno peruano.",
+          "Para encontrar trámites en Gob.pe, puedes usar el buscador en la página principal o navegar por categorías de servicios.",
+          "Sí, en Gob.pe puedes encontrar información de contacto y canales de comunicación con diferentes entidades del Estado para realizar consultas."
+        ]
+      },
+      {
+        "tag": "facilita_peru",
+        "patterns": [
+          "¿Qué es Facilita Perú?",
+          "¿Cómo puedo presentar una denuncia en Facilita Perú?",
+          "¿Facilita Perú sirve para hacer consultas?",
+          "¿Puedo acceder a Facilita Perú desde mi celular?"
+        ],
+        "responses": [
+          "Facilita Perú es una plataforma del Estado que permite a los ciudadanos presentar denuncias y reclamos sobre entidades públicas.",
+          "Para presentar una denuncia en Facilita Perú, debes ingresar a https://facilita.gob.pe y completar el formulario con la información de tu caso.",
+          "Facilita Perú está diseñado para recibir denuncias y reclamos, pero también permite realizar consultas sobre trámites y servicios públicos.",
+          "Sí, puedes acceder a Facilita Perú desde cualquier dispositivo con conexión a internet, incluyendo tu celular, ingresando a su sitio web."
+        ]
+      }
+    ]
+  }
+  

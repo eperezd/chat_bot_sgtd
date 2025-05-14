@@ -1,0 +1,438 @@
+[2025-03-21 15:56:27] Usuario 5163780417: hola
+[2025-03-21 15:56:30] Usuario 5163780417: gob_pe_acceso
+[2025-03-21 15:56:32] Usuario 5163780417: ¿Qué servicios puedo encontrar en Gob.pe?
+[2025-03-21 15:56:33] Usuario 5163780417: Respuesta: Puedes acceder a Gob.pe a través de https://www.gob.pe, donde encontrarás información y servicios del Estado peruano.
+[2025-03-21 15:56:39] Usuario 5163780417: Utilidad: no
+[2025-03-21 15:56:43] Usuario 5163780417: gob_pe_acceso
+[2025-03-21 15:56:44] Usuario 5163780417: ¿Dónde encuentro trámites en Gob.pe?
+[2025-03-21 15:56:45] Usuario 5163780417: Respuesta: Puedes acceder a Gob.pe a través de https://www.gob.pe, donde encontrarás información y servicios del Estado peruano.
+[2025-03-21 15:56:51] Usuario 5163780417: Utilidad: sí
+[2025-03-21 15:56:54] Usuario 5163780417: facilita_peru
+[2025-03-21 15:56:56] Usuario 5163780417: ¿Facilita Perú sirve para hacer consultas?
+[2025-03-21 15:56:56] Usuario 5163780417: Respuesta: Facilita Perú es una plataforma del Estado que permite a los ciudadanos presentar denuncias y reclamos sobre entidades públicas.
+[2025-03-21 16:02:09] Usuario 5163780417: Utilidad: facilita_peru
+[2025-03-21 16:23:55] Usuario 5163780417: gob_pe_acceso
+[2025-03-21 16:23:57] Usuario 5163780417: ¿Dónde encuentro trámites en Gob.pe?
+[2025-03-21 16:23:58] Usuario 5163780417: Respuesta: Puedes acceder a Gob.pe a través de https://www.gob.pe, donde encontrarás información y servicios del Estado peruano.
+[2025-03-21 16:40:24] Usuario 5163780417: Utilidad: gob_pe_acceso
+[Usuario 5163780417] → adg
+[Bot] → No entendí bien tu mensaje. Por favor, usa el menú.
+
+[Usuario 5163780417] → ljkh
+[Bot] → No entendí bien tu mensaje. Por favor, usa el menú.
+
+Usuario 5163780417 -> ¿Dónde encuentro trámites en Gob.pe?
+Bot -> Puedes acceder a Gob.pe a través de https://www.gob.pe, donde encontrarás información y servicios del Estado peruano.
+
+Fri Mar 21 17:04:37 2025 - 5163780417: hergs
+Fri Mar 21 17:04:38 2025 - 5163780417: gob_pe_acceso
+Fri Mar 21 17:04:52 2025 - 5163780417: /start
+Fri Mar 21 17:04:54 2025 - 5163780417: gob_pe_acceso
+Fri Mar 21 17:10:19 2025 - 5163780417: portal_transparencia
+Fri Mar 21 17:10:21 2025 - 5163780417: gob_pe_acceso
+Fri Mar 21 17:10:23 2025 - 5163780417: facilita_peru
+Fri Mar 21 17:10:26 2025 - 5163780417: gob_pe_acceso
+Fri Mar 21 17:11:25 2025 - 5163780417: /start
+Fri Mar 21 17:11:27 2025 - 5163780417: gob_pe_acceso
+Fri Mar 21 17:11:29 2025 - 5163780417: ¿Dónde encuentro trámites en Gob.pe?
+Fri Mar 21 17:11:33 2025 - 5163780417: ¿Puedo hacer consultas a entidades del Estado en Gob.pe?
+Fri Mar 21 17:11:34 2025 - 5163780417: ¿Dónde encuentro trámites en Gob.pe?
+Fri Mar 21 17:11:35 2025 - 5163780417: ¿Dónde encuentro trámites en Gob.pe?
+Fri Mar 21 17:11:36 2025 - 5163780417: ¿Dónde encuentro trámites en Gob.pe?
+Fri Mar 21 17:11:36 2025 - 5163780417: ¿Cómo accedo a Gob.pe?
+Fri Mar 21 17:11:38 2025 - 5163780417: ¿Qué servicios puedo encontrar en Gob.pe?
+Fri Mar 21 17:11:42 2025 - 5163780417: no
+Fri Mar 21 17:11:44 2025 - 5163780417: no
+Fri Mar 21 17:11:45 2025 - 5163780417: gob_pe_acceso
+Fri Mar 21 17:11:46 2025 - 5163780417: ¿Dónde encuentro trámites en Gob.pe?
+Fri Mar 21 17:22:01 2025 - 5163780417: ¿Qué servicios puedo encontrar en Gob.pe?
+Fri Mar 21 17:27:12 2025 - 5163780417: ¿Dónde encuentro trámites en Gob.pe?
+Fri Mar 21 17:27:19 2025 - 5163780417: no
+Fri Mar 21 17:27:23 2025 - 5163780417: Sí
+Fri Mar 21 17:27:29 2025 - 5163780417: re@d.com
+Fri Mar 21 17:27:32 2025 - 5163780417: vld
+Fri Mar 21 17:27:40 2025 - 5163780417: oofkm fksdmfdsp 4f slfm sdlfmsldvsd
+Fri Mar 21 17:27:44 2025 - 5163780417: oroigmldfmvñldfmbñldmbñldfmbfd
+Fri Mar 21 17:27:47 2025 - 5163780417: Sí
+Fri Mar 21 17:27:58 2025 - 5163780417: hola
+Fri Mar 21 17:33:04 2025 - 5163780417: gob_pe_acceso
+Fri Mar 21 17:33:06 2025 - 5163780417: ¿Dónde encuentro trámites en Gob.pe?
+Fri Mar 21 17:33:08 2025 - 5163780417: ¿Puedo hacer consultas a entidades del Estado en Gob.pe?
+Fri Mar 21 17:33:13 2025 - 5163780417: no
+Fri Mar 21 17:33:16 2025 - 5163780417: no
+Fri Mar 21 17:33:17 2025 - 5163780417: gob_pe_acceso
+Fri Mar 21 17:33:18 2025 - 5163780417: ¿Dónde encuentro trámites en Gob.pe?
+Fri Mar 21 17:38:30 2025 - 5163780417: Volver al menú principal
+Fri Mar 21 17:38:33 2025 - 5163780417: portal_transparencia
+Fri Mar 21 17:38:35 2025 - 5163780417: Volver al menú principal
+Fri Mar 21 17:39:33 2025 - 5163780417: gob_pe_acceso
+Fri Mar 21 17:39:34 2025 - 5163780417: ¿Dónde encuentro trámites en Gob.pe?
+Fri Mar 21 17:39:37 2025 - 5163780417: ¿Dónde encuentro trámites en Gob.pe?
+Fri Mar 21 17:39:40 2025 - 5163780417: no
+Fri Mar 21 17:39:43 2025 - 5163780417: Sí
+Fri Mar 21 17:39:50 2025 - 5163780417: re@adasd
+Fri Mar 21 17:39:58 2025 - 5163780417: dsfdssda@sada.com
+Fri Mar 21 17:40:01 2025 - 5163780417: tyuio
+Fri Mar 21 17:40:04 2025 - 5163780417: gfgfg
+Fri Mar 21 17:40:30 2025 - 5163780417: vbb
+Fri Mar 21 17:42:07 2025 - 5163780417: no
+Fri Mar 21 17:42:10 2025 - 5163780417: dvs
+Mon Mar 24 10:57:12 2025 - 5163780417: hola
+Mon Mar 24 10:57:15 2025 - 5163780417: gob_pe_acceso
+Mon Mar 24 10:57:16 2025 - 5163780417: ¿Dónde encuentro trámites en Gob.pe?
+Mon Mar 24 10:57:21 2025 - 5163780417: Sí
+Mon Mar 24 10:59:13 2025 - 5163780417: gob_pe_acceso
+Mon Mar 24 10:59:14 2025 - 5163780417: ¿Qué servicios puedo encontrar en Gob.pe?
+Mon Mar 24 10:59:17 2025 - 5163780417: No
+Mon Mar 24 11:12:58 2025 - 5163780417: hola
+Mon Mar 24 11:18:03 2025 - 5163780417: facilita_peru
+Mon Mar 24 11:18:05 2025 - 5163780417: ¿Facilita Perú sirve para hacer consultas?
+Mon Mar 24 11:18:08 2025 - 5163780417: No
+Mon Mar 24 11:18:11 2025 - 5163780417: Si
+Mon Mar 24 11:18:16 2025 - 5163780417: gob_pe_acceso
+Mon Mar 24 11:18:17 2025 - 5163780417: ¿Dónde encuentro trámites en Gob.pe?
+Mon Mar 24 11:18:21 2025 - 5163780417: no
+Mon Mar 24 11:18:25 2025 - 5163780417: Sí
+Mon Mar 24 11:18:33 2025 - 5163780417: rerer64asdas@sdsadsa.com
+Mon Mar 24 11:18:41 2025 - 5163780417: ASas646464
+Mon Mar 24 11:18:50 2025 - 5163780417: AAAAAAAA FDFDFDF EFESFAF
+Mon Mar 24 11:18:55 2025 - 5163780417: SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+Mon Mar 24 11:19:06 2025 - 5163780417: No
+Mon Mar 24 11:19:13 2025 - 5163780417: hola
+Thu Apr  3 09:35:43 2025 - 1101301181: /start
+Thu Apr  3 09:35:44 2025 - 1526213047: /start
+Thu Apr  3 09:35:44 2025 - 1526213047: ¿Qué es el Portal de Transparencia Estándar?
+Thu Apr  3 09:35:44 2025 - 1526213047: ¿Cómo accedo al Portal de Transparencia?
+Thu Apr  3 09:35:44 2025 - 1101301181: /start
+Thu Apr  3 09:35:44 2025 - 1526213047: ¿Cómo accedo al Portal de Transparencia?
+Thu Apr  3 09:35:45 2025 - 1526213047: /start
+Thu Apr  3 09:35:45 2025 - 1526213047: ¿Qué información se encuentra en el Portal de Transparencia?
+Thu Apr  3 09:35:45 2025 - 1526213047: ¿Dónde encuentro información sobre presupuestos del gobierno?
+Thu Apr  3 09:35:45 2025 - 1526213047: /start
+Thu Apr  3 09:35:59 2025 - 5163780417: hola
+Thu Apr  3 09:36:02 2025 - 5163780417: gob_pe_acceso
+Thu Apr  3 09:36:03 2025 - 5163780417: ¿Qué servicios puedo encontrar en Gob.pe?
+Thu Apr  3 09:36:12 2025 - 5163780417: hola
+Thu Apr  3 09:36:15 2025 - 5163780417: menu
+Thu Apr  3 09:36:18 2025 - 5163780417: no
+Thu Apr  3 09:36:20 2025 - 5163780417: no
+Thu Apr  3 09:36:23 2025 - 5163780417: gob_pe_acceso
+Thu Apr  3 09:36:27 2025 - 5163780417: Volver al menú principal
+Thu Apr  3 09:39:03 2025 - 1526213047: gob_pe_acceso
+Thu Apr  3 09:39:08 2025 - 1526213047: Si
+Thu Apr  3 09:39:10 2025 - 1526213047: No
+Thu Apr  3 09:39:14 2025 - 1526213047: Si
+Thu Apr  3 09:39:18 2025 - 1526213047: portal_transparencia
+Thu Apr  3 09:39:20 2025 - 1526213047: ¿Qué es el Portal de Transparencia Estándar?
+Thu Apr  3 09:39:24 2025 - 1526213047: Si
+Thu Apr  3 09:39:28 2025 - 1526213047: No
+Thu Apr  3 09:39:31 2025 - 1526213047: Si
+Thu Apr  3 09:39:36 2025 - 1526213047: facilita_peru
+Thu Apr  3 09:39:39 2025 - 1526213047: ¿Qué es Facilita Perú?
+Thu Apr  3 09:39:55 2025 - 1526213047: Si
+Thu Apr  3 09:40:02 2025 - 1526213047: Sí
+Thu Apr  3 09:44:55 2025 - 1101301181: /start
+Thu Apr  3 09:45:03 2025 - 1101301181: facilita_peru
+Thu Apr  3 09:54:22 2025 - 1526213047: /start
+Thu Apr  3 09:54:25 2025 - 1526213047: portal_transparencia
+Thu Apr  3 09:54:28 2025 - 1526213047: ¿Cómo accedo al Portal de Transparencia?
+Thu Apr  3 09:54:35 2025 - 1526213047: Si
+Thu Apr  3 09:54:40 2025 - 1526213047: Sí
+Thu Apr  3 17:40:08 2025 - 1526213047: /start
+ransparencia
+Thu Apr  3 17:40:09 2025 - 1526213047: gob_pe_acceso
+Thu Apr  3 18:20:03 2025 - 1526213047: /start
+Thu Apr  3 18:20:34 2025 - 1526213047: portal_transparencia
+Thu Apr  3 18:21:00 2025 - 1526213047: ¿Qué es el Portal de Transparencia Estándar?
+Thu Apr  3 18:21:29 2025 - 1526213047: Sí
+Fri Apr  4 08:19:13 2025 - 5163780417: /start
+_peru
+Fri Apr  4 08:24:18 2025 - 5163780417: portal_transparencia
+Fri Apr  4 08:24:19 2025 - 5163780417: ¿Cómo accedo al Portal de Transparencia?
+Mon Apr  7 09:13:04 2025 - 1526213047: /start
+Mon Apr  7 09:13:04 2025 - 1526213047: portal_transparencia
+Mon Apr  7 09:13:04 2025 - 1526213047: facilita_peru
+Mon Apr  7 12:47:31 2025 - 5163780417: ¿Qué es el Portal de Transparencia Estándar?
+Mon Apr  7 12:47:38 2025 - 5163780417: Sí
+Mon Apr  7 17:45:25 2025 - 1526213047: Volver al menú principal
+Mon Apr  7 17:45:58 2025 - 5163780417: /start
+Mon Apr  7 17:46:08 2025 - 1526213047: /start
+Mon Apr  7 17:46:18 2025 - 5218197738: /start
+Mon Apr  7 17:46:23 2025 - 5218197738: gob_pe_acceso
+Mon Apr  7 17:46:27 2025 - 5218197738: ¿Cómo accedo a Gob.pe?
+Mon Apr  7 17:46:32 2025 - 5218197738: ¿Qué servicios puedo encontrar en Gob.pe?
+Mon Apr  7 17:46:32 2025 - 5163780417: /start
+Mon Apr  7 17:46:41 2025 - 5218197738: ¿Puedo hacer consultas a entidades del Estado en Gob.pe?
+Mon Apr  7 17:46:49 2025 - 5163780417: portal_transparencia
+Mon Apr  7 17:47:01 2025 - 1526213047: portal_transparencia
+Mon Apr  7 17:47:06 2025 - 5163780417: Volver al menú principal
+Mon Apr  7 17:47:08 2025 - 5163780417: gob_pe_acceso
+Mon Apr  7 17:47:08 2025 - 1526213047: Volver al menú principal
+Mon Apr  7 17:47:12 2025 - 5163780417: Volver al menú principal
+Mon Apr  7 17:47:12 2025 - 1526213047: gob_pe_acceso
+Mon Apr  7 17:47:13 2025 - 5163780417: facilita_peru
+Mon Apr  7 17:47:15 2025 - 1526213047: ¿Qué servicios puedo encontrar en Gob.pe?
+Mon Apr  7 17:47:15 2025 - 5163780417: Volver al menú principal
+Mon Apr  7 17:47:22 2025 - 5163780417: portal_transparencia
+Mon Apr  7 17:47:22 2025 - 1526213047: Si
+Mon Apr  7 17:47:38 2025 - 5163780417: ¿Cómo accedo al Portal de Transparencia?
+Mon Apr  7 17:48:14 2025 - 5163780417: No
+Mon Apr  7 17:48:19 2025 - 1526213047: No
+Mon Apr  7 17:48:26 2025 - 5163780417: No
+Mon Apr  7 17:48:30 2025 - 1526213047: No
+Mon Apr  7 17:48:31 2025 - 5163780417: gob_pe_acceso
+Mon Apr  7 17:48:34 2025 - 5163780417: ¿Qué servicios puedo encontrar en Gob.pe?
+Mon Apr  7 17:48:54 2025 - 1526213047: gob_pe_acceso
+Mon Apr  7 17:48:56 2025 - 5163780417: Sí
+Mon Apr  7 17:48:58 2025 - 1526213047: ¿Qué servicios puedo encontrar en Gob.pe?
+Mon Apr  7 17:49:02 2025 - 5163780417: facilita_peru
+Mon Apr  7 17:49:03 2025 - 5163780417: ¿Cómo puedo presentar una denuncia en Facilita Perú?
+Mon Apr  7 17:49:06 2025 - 1526213047: Sí
+Mon Apr  7 17:49:07 2025 - 5163780417: No
+Mon Apr  7 17:49:12 2025 - 5163780417: Sí
+Mon Apr  7 17:49:12 2025 - 1526213047: facilita_peru
+Mon Apr  7 17:49:21 2025 - 1526213047: ¿Facilita Perú sirve para hacer consultas?
+Mon Apr  7 17:49:23 2025 - 5163780417: kjfsjkfhsd@dsadas
+Mon Apr  7 17:49:26 2025 - 1526213047: ¿Cómo puedo presentar una denuncia en Facilita Perú?
+Mon Apr  7 17:49:32 2025 - 1526213047: Sí
+Mon Apr  7 17:49:38 2025 - 1526213047: facilita_peru
+Mon Apr  7 17:49:40 2025 - 5163780417: jdsfjdsj@dsadas.com
+Mon Apr  7 17:49:40 2025 - 1526213047: ¿Cómo puedo presentar una denuncia en Facilita Perú?
+Mon Apr  7 17:49:46 2025 - 5163780417: PCM
+Mon Apr  7 17:49:47 2025 - 1526213047: Sí
+Mon Apr  7 17:49:50 2025 - 5163780417: PTE
+Mon Apr  7 17:50:00 2025 - 5163780417: jdsjfsdf sdkfnsdkfnkdsfñ ñlfsdñljfsdo sdifskfdni dsfnsdlfksdflksd
+Mon Apr  7 17:50:20 2025 - 5163780417: Sí
+Mon Apr  7 17:50:47 2025 - 5163780417: hola
+Mon Apr  7 17:50:51 2025 - 1526213047: facilita_peru
+Mon Apr  7 17:50:54 2025 - 1526213047: ¿Cómo puedo presentar una denuncia en Facilita Perú?
+Mon Apr  7 17:50:55 2025 - 5163780417: gob_pe_acceso
+Mon Apr  7 17:50:56 2025 - 5163780417: ¿Qué servicios puedo encontrar en Gob.pe?
+Mon Apr  7 17:50:58 2025 - 1526213047: No
+Mon Apr  7 17:51:00 2025 - 1526213047: Si
+Mon Apr  7 17:51:08 2025 - 1526213047: Sí
+Mon Apr  7 17:51:12 2025 - 1526213047: facilita_peru
+Mon Apr  7 17:51:14 2025 - 1526213047: ¿Cómo puedo presentar una denuncia en Facilita Perú?
+Mon Apr  7 17:51:18 2025 - 1526213047: No
+Mon Apr  7 17:51:22 2025 - 1526213047: Sí
+Mon Apr  7 17:51:49 2025 - 5163780417: si
+Mon Apr  7 17:52:02 2025 - 5163780417: hgfhgf
+Mon Apr  7 17:52:06 2025 - 1526213047: Promerosba20@gmail.com
+Mon Apr  7 17:52:10 2025 - 1526213047: Pcm
+Mon Apr  7 17:53:25 2025 - 1526213047: Formulario denuncia
+Mon Apr  7 17:53:33 2025 - 1526213047: Necesito formulario
+Mon Apr  7 17:53:40 2025 - 1526213047: Sí
+Mon Apr  7 18:12:48 2025 - 5218197738: ¿Puedo hacer consultas a entidades del Estado en Gob.pe?
+Mon Apr  7 18:12:56 2025 - 5218197738: no
+Mon Apr  7 18:13:03 2025 - 5218197738: si
+Mon Apr  7 18:13:12 2025 - 5218197738: gob_pe_acceso
+Mon Apr  7 18:23:21 2025 - 5163780417: ¿Qué servicios puedo encontrar en Gob.pe?
+Mon Apr  7 18:50:47 2025 - 5163780417: Volver al menú principal
+Mon Apr  7 18:50:50 2025 - 5163780417: gob_pe_acceso
+Mon Apr  7 18:50:51 2025 - 5163780417: ¿Dónde encuentro trámites en Gob.pe?
+Mon Apr  7 18:51:02 2025 - 5163780417: Sí
+Mon Apr  7 20:47:43 2025 - 1526213047: ¿Qué es Facilita Perú?
+Mon Apr  7 20:47:51 2025 - 1526213047: ¿Cómo puedo presentar una denuncia en Facilita Perú?
+Mon Apr  7 20:47:57 2025 - 1526213047: Sí
+Mon Apr  7 20:48:01 2025 - 1526213047: portal_transparencia
+Mon Apr  7 20:48:02 2025 - 1526213047: ¿Cómo accedo al Portal de Transparencia?
+Mon Apr  7 20:48:07 2025 - 1526213047: No
+Mon Apr  7 20:48:14 2025 - 1526213047: Sí
+Mon Apr  7 20:48:24 2025 - 1526213047: promerosba20@gmail.com
+Mon Apr  7 20:48:30 2025 - 1526213047: PCM
+Mon Apr  7 20:48:47 2025 - 1526213047: Creación de usuarios PTE
+Mon Apr  7 20:49:01 2025 - 1526213047: Necesito agregar usuarios en el Portal de Transparencia
+Mon Apr  7 20:49:13 2025 - 1526213047: si
+Mon Apr  7 20:49:19 2025 - 1526213047: Sí
+Mon Apr  7 20:49:32 2025 - 1526213047: portal_transparencia
+Mon Apr  7 20:49:36 2025 - 1526213047: ¿Cómo accedo al Portal de Transparencia?
+Mon Apr  7 20:49:44 2025 - 1526213047: No
+Mon Apr  7 20:49:48 2025 - 1526213047: Sí
+Mon Apr  7 20:49:57 2025 - 1526213047: promerosba20@gmail.com
+Mon Apr  7 20:50:00 2025 - 1526213047: PCM
+Mon Apr  7 20:50:13 2025 - 1526213047: Quiero crear usuarios en el PTE
+Mon Apr  7 20:50:33 2025 - 1526213047: Necesito crear nuevos usuarios en el PTE
+Mon Apr  7 20:50:39 2025 - 1526213047: Sí
+Mon Apr  7 20:58:49 2025 - 1526213047: /start
+Mon Apr  7 20:58:55 2025 - 1526213047: facilita_peru
+Mon Apr  7 20:58:58 2025 - 1526213047: ¿Cómo puedo presentar una denuncia en Facilita Perú?
+Mon Apr  7 20:59:03 2025 - 1526213047: No
+Mon Apr  7 20:59:08 2025 - 1526213047: Sí
+Mon Apr  7 20:59:17 2025 - 1526213047: promerosba20@gmail.com
+Mon Apr  7 20:59:22 2025 - 1526213047: PCM
+Mon Apr  7 20:59:31 2025 - 1526213047: Formulario denuncia
+Mon Apr  7 20:59:38 2025 - 1526213047: Necesito formulario
+Mon Apr  7 20:59:48 2025 - 1526213047: Sí
+Tue Apr  8 14:20:54 2025 - 5163780417: gob_pe_acceso
+Tue Apr  8 14:20:56 2025 - 5163780417: ¿Qué servicios puedo encontrar en Gob.pe?
+Tue Apr  8 14:21:01 2025 - 5163780417: Si
+Tue Apr  8 14:21:03 2025 - 5163780417: gob_pe_acceso
+Tue Apr  8 14:21:05 2025 - 5163780417: ¿Puedo hacer consultas a entidades del Estado en Gob.pe?
+Tue Apr  8 14:21:09 2025 - 5163780417: No
+Tue Apr  8 14:21:13 2025 - 5163780417: Si
+Tue Apr  8 14:21:28 2025 - 5163780417: Ronald_perez86@hotmail.com
+Tue Apr  8 14:21:34 2025 - 5163780417: Pcm
+Tue Apr  8 14:21:41 2025 - 5163780417: Facilita
+Tue Apr  8 14:21:51 2025 - 5163780417: Yudjjdjdd djdkddkkskd dnkdkeorornd 27383e fnfkkddkdjj
+Tue Apr  8 14:21:54 2025 - 5163780417: Si
+Wed Apr  9 12:21:27 2025 - 1526213047: ¿Qué es Facilita Perú?
+Wed Apr  9 12:21:46 2025 - 1526213047: Si
+Thu Apr 10 07:45:09 2025 - 5218197738: Volver al menú principal
+Thu Apr 10 07:45:17 2025 - 5218197738: facilita_peru
+Mon Apr 14 16:31:32 2025 - 1526213047: portal_transparencia
+Mon Apr 14 16:34:12 2025 - 1526213047: portal_transparencia
+Mon Apr 14 16:34:14 2025 - 1526213047: ¿Qué es el Portal de Transparencia Estándar?
+Mon Apr 14 16:34:18 2025 - 1526213047: Si
+Mon Apr 14 16:59:31 2025 - 316079106: /start
+Mon Apr 14 16:59:35 2025 - 316079106: portal_transparencia
+Mon Apr 14 16:59:44 2025 - 316079106: ¿Qué información se encuentra en el Portal de Transparencia?
+Mon Apr 14 16:59:49 2025 - 316079106: Si
+Mon Apr 14 16:59:58 2025 - 316079106: Quiero información del oye
+Mon Apr 14 17:00:03 2025 - 316079106: Oye
+Mon Apr 14 17:00:07 2025 - 316079106: Pte
+Mon Apr 14 17:00:10 2025 - 316079106: facilita_peru
+Mon Apr 14 17:00:13 2025 - 316079106: Volver al menú principal
+Mon Apr 14 17:00:17 2025 - 316079106: facilita_peru
+Mon Apr 14 17:00:21 2025 - 316079106: ¿Puedo acceder a Facilita Perú desde mi celular?
+Mon Apr 14 17:26:45 2025 - 316079106: ¿Qué es Facilita Perú?
+Mon Apr 14 17:26:48 2025 - 316079106: ¿Facilita Perú sirve para hacer consultas?
+Mon Apr 14 17:26:52 2025 - 316079106: Si
+Mon Apr 14 17:27:02 2025 - 316079106: gob_pe_acceso
+Mon Apr 14 17:27:05 2025 - 316079106: ¿Dónde encuentro trámites en Gob.pe?
+Mon Apr 14 17:27:11 2025 - 316079106: Si
+Mon Apr 14 17:27:15 2025 - 316079106: gob_pe_acceso
+Mon Apr 14 17:27:20 2025 - 316079106: ¿Qué servicios puedo encontrar en Gob.pe?
+Mon Apr 14 17:27:21 2025 - 316079106: ¿Dónde encuentro trámites en Gob.pe?
+Tue Apr 15 09:14:56 2025 - 5163780417: ¿Cómo accedo a Gob.pe?
+Tue Apr 15 09:15:01 2025 - 5163780417: si
+Tue Apr 15 16:29:57 2025 - 5163780417: portal_transparencia
+Tue Apr 15 16:29:59 2025 - 5163780417: ¿Cómo accedo al Portal de Transparencia?
+Wed Apr 16 13:09:14 2025 - 5163780417: ¿Qué es el Portal de Transparencia Estándar?
+Wed Apr 16 13:10:44 2025 - 5163780417: ¿Qué información se encuentra en el Portal de Transparencia?
+Wed Apr 16 13:10:49 2025 - 5163780417: Si
+Wed Apr 16 13:10:52 2025 - 5163780417: facilita_peru
+Wed Apr 16 13:10:54 2025 - 5163780417: ¿Facilita Perú sirve para hacer consultas?
+Wed Apr 16 13:10:58 2025 - 1260863345: /start
+Wed Apr 16 13:11:00 2025 - 5163780417: No
+Wed Apr 16 13:11:04 2025 - 1260863345: facilita_peru
+Wed Apr 16 13:11:07 2025 - 5163780417: Si
+Wed Apr 16 13:11:09 2025 - 1260863345: ¿Qué es Facilita Perú?
+Wed Apr 16 13:11:17 2025 - 5163780417: Rsiwj@fodk.com
+Wed Apr 16 13:11:23 2025 - 5163780417: Mpsm
+Wed Apr 16 13:11:24 2025 - 1260863345: no
+Wed Apr 16 13:11:31 2025 - 1260863345: si
+Wed Apr 16 13:11:40 2025 - 5163780417: Hdjdskdi
+Wed Apr 16 13:11:46 2025 - 5163780417: Isjfdjfidjd djdkdidsi. Dkkdiddkjf
+Wed Apr 16 13:11:49 2025 - 1260863345: jmoreno@pcm.gob.pe
+Wed Apr 16 13:11:55 2025 - 5163780417: Si
+Wed Apr 16 13:11:57 2025 - 1260863345: PCM
+Wed Apr 16 13:15:08 2025 - 1260863345: no atienden a mi solicitud de SGD
+Wed Apr 16 13:15:09 2025 - 5163780417: Jfkf
+Wed Apr 16 13:15:12 2025 - 5163780417: gob_pe_acceso
+Wed Apr 16 13:15:14 2025 - 5163780417: ¿Dónde encuentro trámites en Gob.pe?
+Wed Apr 16 13:15:16 2025 - 5163780417: ¿Qué servicios puedo encontrar en Gob.pe?
+Wed Apr 16 13:15:23 2025 - 5163780417: Si
+Wed Apr 16 13:15:23 2025 - 1260863345: no atienden mi solicitud de SGD
+Wed Apr 16 13:15:27 2025 - 1260863345: si
+Sat Apr 19 08:41:01 2025 - 5163780417: portal_transparencia
+Sat Apr 19 08:41:01 2025 - 5163780417: gob_pe_acceso
+Sat Apr 19 08:41:02 2025 - 5321425361: /start
+Sat Apr 19 08:49:57 2025 - 5163780417: ¿Cómo accedo a Gob.pe?
+Sat Apr 19 08:50:18 2025 - 5163780417: ¿Dónde encuentro trámites en Gob.pe?
+Sat Apr 19 08:50:22 2025 - 5163780417: Si
+Sat Apr 19 08:50:25 2025 - 5163780417: facilita_peru
+Sat Apr 19 08:50:27 2025 - 5163780417: ¿Puedo acceder a Facilita Perú desde mi celular?
+Sat Apr 19 08:50:37 2025 - 5163780417: ¿Puedo acceder a Facilita Perú desde mi celular?
+Sat Apr 19 08:50:42 2025 - 5163780417: Si
+Sat Apr 19 12:02:03 2025 - 5163780417: portal_transparencia
+Sat Apr 19 12:02:04 2025 - 5163780417: ¿Qué información se encuentra en el Portal de Transparencia?
+Sat Apr 19 12:02:10 2025 - 5163780417: Si
+Wed Apr 23 11:19:29 2025 - 5163780417: portal_transparencia
+Wed Apr 23 11:19:32 2025 - 5163780417: ¿Cómo accedo al Portal de Transparencia?
+Wed Apr 23 11:19:36 2025 - 5163780417: Si
+Wed Apr 23 11:51:13 2025 - 5163780417: portal_transparencia
+Wed Apr 23 11:51:13 2025 - 5163780417: portal_transparencia
+Wed Apr 23 11:51:15 2025 - 5163780417: ¿Cómo accedo al Portal de Transparencia?
+Wed Apr 23 11:51:20 2025 - 5163780417: Si
+Wed Apr 23 11:51:23 2025 - 5163780417: gob_pe_acceso
+Wed Apr 23 11:51:24 2025 - 5163780417: ¿Qué servicios puedo encontrar en Gob.pe?
+Wed Apr 23 11:52:17 2025 - 5163780417: Si
+Wed Apr 23 19:15:53 2025 - 1526213047: portal_transparencia
+Wed Apr 23 19:16:00 2025 - 1526213047: ¿Qué es el Portal de Transparencia Estándar?
+Wed Apr 23 19:16:09 2025 - 1526213047: Si
+Wed Apr 23 19:16:13 2025 - 1526213047: gob_pe_acceso
+Wed Apr 23 19:16:16 2025 - 1526213047: ¿Cómo accedo a Gob.pe?
+Wed Apr 23 19:16:24 2025 - 1526213047: No
+Wed Apr 23 19:16:37 2025 - 1526213047: promerosba20@gmail.com
+Wed Apr 23 19:16:50 2025 - 1526213047: portal_transparencia
+Wed Apr 23 19:16:51 2025 - 1526213047: ¿Cómo accedo al Portal de Transparencia?
+Wed Apr 23 19:16:55 2025 - 1526213047: ¿Qué información se encuentra en el Portal de Transparencia?
+Wed Apr 23 19:17:01 2025 - 1526213047: Si
+Wed Apr 23 19:17:02 2025 - 1526213047: portal_transparencia
+Wed Apr 23 19:17:04 2025 - 1526213047: ¿Qué información se encuentra en el Portal de Transparencia?
+Wed Apr 23 19:17:09 2025 - 1526213047: Volver al menú principal
+Wed Apr 23 19:17:14 2025 - 1526213047: Volver al menú principal
+Wed Apr 23 19:17:18 2025 - 1526213047: Si
+Wed Apr 23 19:17:20 2025 - 1526213047: gob_pe_acceso
+Wed Apr 23 19:17:23 2025 - 1526213047: ¿Puedo hacer consultas a entidades del Estado en Gob.pe?
+Wed Apr 23 20:00:44 2025 - 1526213047: Volver al menú principal
+Wed Apr 23 20:00:44 2025 - 1526213047: /start
+Wed Apr 23 20:00:44 2025 - 1526213047: /start
+Wed Apr 23 20:00:45 2025 - 1526213047: ¿Cómo accedo a Gob.pe?
+Wed Apr 23 20:00:45 2025 - 1526213047: Volver al menú principal
+Wed Apr 23 20:00:45 2025 - 5163780417: portal_transparencia
+Wed Apr 23 20:01:23 2025 - 5163780417: ¿Qué información se encuentra en el Portal de Transparencia?
+Wed Apr 23 20:01:27 2025 - 5163780417: Si
+Thu Apr 24 08:34:38 2025 - 5163780417: gob_pe_acceso
+Thu Apr 24 08:34:38 2025 - 1526213047: /start
+Thu Apr 24 19:31:43 2025 - 5163780417: ¿Cómo accedo a Gob.pe?
+Thu Apr 24 19:31:49 2025 - 5163780417: Si
+Thu Apr 24 19:32:03 2025 - 5163780417: portal_transparencia
+Thu Apr 24 19:32:06 2025 - 5163780417: ¿Cómo accedo al Portal de Transparencia?
+Thu Apr 24 19:32:09 2025 - 5163780417: Si
+Thu Apr 24 19:32:12 2025 - 5163780417: facilita_peru
+Thu Apr 24 19:32:14 2025 - 5163780417: ¿Cómo puedo presentar una denuncia en Facilita Perú?
+Thu Apr 24 19:32:17 2025 - 5163780417: Si
+Thu Apr 24 19:55:14 2025 - 5163780417: portal_transparencia
+Thu Apr 24 19:55:17 2025 - 5163780417: ¿Cómo accedo al Portal de Transparencia?
+Thu Apr 24 19:55:21 2025 - 5163780417: Si
+Thu Apr 24 22:53:29 2025 - 1526213047: portal_transparencia
+Thu Apr 24 22:53:34 2025 - 1526213047: ¿Qué es el Portal de Transparencia Estándar?
+Thu Apr 24 22:53:43 2025 - 1526213047: no
+Thu Apr 24 22:53:46 2025 - 1526213047: no
+Thu Apr 24 22:53:49 2025 - 1526213047: gob_pe_acceso
+Thu Apr 24 22:53:52 2025 - 1526213047: ¿Dónde encuentro trámites en Gob.pe?
+Fri Apr 25 08:22:37 2025 - 5163780417: portal_transparencia
+Fri Apr 25 08:22:39 2025 - 5163780417: ¿Cómo accedo al Portal de Transparencia?
+Fri Apr 25 08:22:47 2025 - 5163780417: Si
+Fri Apr 25 20:34:13 2025 - 5163780417: portal_transparencia
+Fri Apr 25 20:34:17 2025 - 5163780417: ¿Qué es el Portal de Transparencia Estándar?
+Fri Apr 25 20:34:20 2025 - 5163780417: Si
+Sat Apr 26 12:13:04 2025 - 5163780417: portal_transparencia
+Sat Apr 26 12:13:07 2025 - 5163780417: ¿Qué es el Portal de Transparencia Estándar?
+Sat Apr 26 12:13:10 2025 - 5163780417: Si
+Sat Apr 26 20:04:13 2025 - 5163780417: portal_transparencia
+Sat Apr 26 20:04:16 2025 - 5163780417: ¿Qué es el Portal de Transparencia Estándar?
+Sat Apr 26 20:04:20 2025 - 5163780417: Si
+Sat Apr 26 23:30:37 2025 - 5218197738: /start
+Sat Apr 26 23:30:40 2025 - 5218197738: portal_transparencia
+Sat Apr 26 23:30:42 2025 - 5218197738: ¿Qué es el Portal de Transparencia Estándar?
+Sun Apr 27 11:48:08 2025 - 5163780417: portal_transparencia
+Sun Apr 27 11:48:10 2025 - 5163780417: ¿Qué es el Portal de Transparencia Estándar?
+Sun Apr 27 11:48:14 2025 - 5163780417: Si
+Wed Apr 30 08:22:24 2025 - 5163780417: portal_transparencia
+Wed Apr 30 08:22:26 2025 - 5163780417: ¿Qué es el Portal de Transparencia Estándar?
+Wed Apr 30 08:22:28 2025 - 5163780417: ¿Qué es el Portal de Transparencia Estándar?
+Wed Apr 30 08:22:32 2025 - 5163780417: Si
+Mon May  5 18:07:56 2025 - 5163780417: portal_transparencia
+Mon May  5 18:07:58 2025 - 5163780417: ¿Qué es el Portal de Transparencia Estándar?
+Mon May  5 18:08:03 2025 - 5163780417: Si
+Thu May  8 20:34:37 2025 - 5163780417: portal_transparencia
+Mon May 12 12:44:28 2025 - 5163780417: ¿Qué es el Portal de Transparencia Estándar?
+Mon May 12 12:44:31 2025 - 5163780417: si
+Mon May 12 17:26:36 2025 - 5163780417: portal_transparencia
+Mon May 12 17:26:40 2025 - 5163780417: ¿Qué es el Portal de Transparencia Estándar?
+Mon May 12 17:26:44 2025 - 5163780417: si
+Mon May 12 18:59:38 2025 - 5163780417: portal_transparencia
+Mon May 12 18:59:44 2025 - 5163780417: ¿Qué es el Portal de Transparencia Estándar?
+Mon May 12 18:59:51 2025 - 5163780417: Si
