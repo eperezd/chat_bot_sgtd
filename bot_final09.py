@@ -8,14 +8,14 @@ from email.message import EmailMessage
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 
 # Configuración
-TOKEN = "8162113547:AAE3wxPj42Mx-t7Z00EzrnWMRSxrmEkg_LQ"
+TOKEN = "7439134187:AAHBmIgwr6V4phcS1We0kjFJ9r-jyDn7rQA"
 EMAIL_DESTINO = "mesadeayuda@gobiernodigital.gob.pe"
 EMAIL_ORIGEN = "perezdiazevenronald@gmail.com"
 EMAIL_APP_PASSWORD = "jgst vwmi ajyz tsor"
 bot = telebot.TeleBot(TOKEN)
 
 # Carga del JSON
-with open("chatbot.json", "r", encoding="utf-8") as file:
+with open("chatbot_converted.json", "r", encoding="utf-8") as file:
     chat_data = json.load(file)
 
 user_sessions = {}
@@ -148,17 +148,34 @@ def manejar_mensajes(message):
     # Submenús y temas
     if texto == "Volver al menú principal":
         bot.send_message(chat_id, "Volviendo al menú principal...", reply_markup=generar_menu())
+        user_sessions.pop(chat_id, None)
         return
 
+    # Si el usuario ya seleccionó un tema, busca el intent y responde según el pattern
+    if "tema" in session:
+        intent = next((i for i in chat_data["intents"] if i["tag"] == session["tema"]), None)
+        if intent:
+            patterns = intent.get("patterns", [])
+            responses = intent.get("responses", [])
+            # Busca el pattern seleccionado
+            for idx, pattern in enumerate(patterns):
+                if texto.lower() == pattern.lower():
+                    # Si hay una respuesta para ese pattern, úsala; si no, usa la primera
+                    respuesta = responses[idx] if idx < len(responses) else (responses[0] if responses else "No tengo respuesta para esa pregunta.")
+                    bot.send_message(chat_id, respuesta)
+                    bot.send_message(chat_id, "¿Esta información fue útil? (Sí/No)")
+                    session["estado"] = "evaluar_utilidad"
+                    user_sessions[chat_id] = session
+                    return
+            # Si no coincide, sugiere usar el submenú
+            bot.send_message(chat_id, "No entendí tu selección. Usa el menú para continuar.", reply_markup=generar_submenu(intent))
+            return
+
+    # Selección de tema principal
     for intent in chat_data["intents"]:
         if texto == intent["tag"]:
             user_sessions[chat_id] = {"tema": intent["tag"]}
             bot.send_message(chat_id, "Selecciona una opción:", reply_markup=generar_submenu(intent))
-            return
-        elif texto.lower() in [p.lower() for p in intent.get("patterns", [])]:
-            bot.send_message(chat_id, intent["responses"][0])
-            bot.send_message(chat_id, "¿Esta información fue útil? (Sí/No)")
-            user_sessions[chat_id] = {"estado": "evaluar_utilidad"}
             return
 
     bot.send_message(chat_id, "No entendí tu mensaje. Usa el menú para continuar.", reply_markup=generar_menu())
